@@ -5,4 +5,4 @@ import sys
 print("awesome")
 print("more awesome")
 
-print (sys.argv)
+print (sys.argv[0])
